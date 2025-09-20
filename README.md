@@ -11,11 +11,14 @@ Built with Python, Scikit-Learn, and Jupyter/Colab.
 - Features: age, sex, TSH, T3, T4, etc.
 - Target: thyroid condition (0 = normal, 1 = desease)
 
+## author
+- sarina nemati
+- [x] (x.com/sarina_nemati)
+
 ## Installation
 ```bash
-git clone https://github.com/sarinanemati/thyroid-ml-model.git
-cd thyroid-disease-classification
+git https://github.com/sarinanemati/thyroid-ml-model.git
+cd thyroid-ml-model
 
-## author
-sarina nemati
-[x] (x.com/sarina_nemati)
+
+
