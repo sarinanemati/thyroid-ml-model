@@ -15,3 +15,7 @@ Built with Python, Scikit-Learn, and Jupyter/Colab.
 ```bash
 git clone https://github.com/sarinanemati/thyroid-ml-model.git
 cd thyroid-disease-classification
+
+## author
+sarina nemati
+[x] (x.com/sarina_nemati)
